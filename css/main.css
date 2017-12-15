@@ -1,0 +1,9 @@
+img {
+  width:30%;
+  height:60%;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: row;
+}
